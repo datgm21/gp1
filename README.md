@@ -7,7 +7,7 @@
 - [UNITYの準備](https://am1.jp/unity/getting-started/)
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [ドットインストール Unity入門](https://dotinstall.com/lessons/basic_unity_v2)
-
+- [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 
 # 1回目
 - ガイダンス
