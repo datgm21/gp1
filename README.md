@@ -1,5 +1,5 @@
-# gp1
-2021年度生 ゲームプログラミング入門1
+# 2021年度生 ゲームプログラミング入門1
+- [シラバス](https://drive.google.com/file/d/19wVSBpL08nnUIp8ZX9r5RmHoJM_Z40OZ/)
 
 # 1回目
 - ガイダンス
