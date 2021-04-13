@@ -1,6 +1,6 @@
 # 2021年度生 ゲームプログラミング入門1
 - [シラバス](https://drive.google.com/file/d/19wVSBpL08nnUIp8ZX9r5RmHoJM_Z40OZ/)
-- [質問](https://meet.google.com/dyf-fsns-kou)
+- [Slack](https://datgm21.slack.com/)
 
 ## 参考URL
 - [Unity Learning Materials](https://learning.unity3d.jp/)
