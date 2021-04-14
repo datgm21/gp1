@@ -1,6 +1,6 @@
 # 2021年度生 ゲームプログラミング入門1
 - [シラバス](https://drive.google.com/file/d/19wVSBpL08nnUIp8ZX9r5RmHoJM_Z40OZ/)
-- [Slack](https://datgm21.slack.com/)
+- [質問](https://meet.google.com/nfe-tjom-mtb)
 - [昨年度の講義資料](https://github.com/datgm20/gp1)
 
 ## 参考URL
