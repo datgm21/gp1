@@ -6,10 +6,18 @@
 ## 参考URL
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [UNITYの準備](https://am1.jp/unity/getting-started/)
+- [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [ドットインストール Unity入門](https://dotinstall.com/lessons/basic_unity_v2)
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
+
+# 2回目
+## 話題
+- [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
+
+## 予定
+
 
 # 1回目
 - ガイダンス
