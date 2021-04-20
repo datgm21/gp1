@@ -17,7 +17,7 @@
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 
 ## 予定
-- [手順動画]()
+- [手順動画](https://youtu.be/lTNRVO3PPhE)
 
 ## 演習
 講義で自分で作成した教科書を参考にして、以下のプログラムを作成してください。
