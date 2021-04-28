@@ -19,6 +19,12 @@
 ## 予定
 - [手順動画](https://youtu.be/lTNRVO3PPhE)
 
+## GW中の自習
+- e-typing
+- [UNITYの準備](https://am1.jp/unity/getting-started/)
+- [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
+- [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+
 ## 演習
 講義で自分で作成した教科書を参考にして、以下のプログラムを作成してください。
 
