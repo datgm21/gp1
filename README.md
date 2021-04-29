@@ -7,7 +7,7 @@
 
 ## 参考URL
 - [Unity Learning Materials](https://learning.unity3d.jp/)
-- [UNITYの準備](https://am1.jp/unity/getting-started/)
+- [UNITYのインストール手順](https://am1.games/tutorials/unity/install/)
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [ドットインストール Unity入門](https://dotinstall.com/lessons/basic_unity_v2)
@@ -24,7 +24,7 @@
 
 ## GW中の自習
 - e-typing
-- [UNITYの準備](https://am1.jp/unity/getting-started/)
+- [UNITYのインストール手順](https://am1.games/tutorials/unity/install/)
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 
