@@ -3,7 +3,7 @@
 - [質問](https://meet.google.com/nfe-tjom-mtb)
 - [昨年度の講義資料](https://github.com/datgm20/gp1)
 - [C#書く教科書　記入例](https://github.com/datgm21/csharp-manual)
-- 
+
 ## 参考URL
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [UNITYの準備](https://am1.jp/unity/getting-started/)
