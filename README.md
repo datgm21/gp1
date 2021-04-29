@@ -18,6 +18,7 @@
 
 ## 予定
 - [手順動画](https://youtu.be/lTNRVO3PPhE)
+- [書く教科書のオリジナルリポジトリー](https://github.com/tanakaedu/csharp-manual)
 
 ## GW中の自習
 - e-typing
