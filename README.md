@@ -29,7 +29,7 @@
 
 ## 予定
 - `v0513`という名前で新しいプロジェクトを作成
-- [VisualStudioのプロジェクトをGitHubにPublishする]()
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 - [手順動画]()
 - [プロジェクトの更新をGitHubに反映させる]()
 
