@@ -14,11 +14,33 @@
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 
+# 3回目
+## 準備
+- GitHubを開く > Sign in > csharp-manual を開く
+- 03.mdをクリックして開く
+
+## 復習
+- Visual C#の新規プロジェクトを`fukuv0513`という名前で作成する
+- ボタンを1つ配置する
+- ボタンの表示を`button1`から`復習`に変更
+- ボタンをクリックしたら「前回の復習です」とMessageBoxで表示させる
+
+以上実装が完了したら、実行して、ボタンを押して、メッセージが表示されている画面のスクリーンショットを撮って、Slackの自分のチャンネルに貼り付けてください。
+
+## 予定
+- [手順動画]()
+- [VisualStudioのプロジェクトをGitHubにPublishする]()
+- [プロジェクトの更新をGitHubに反映させる]()
+
+## 演習
+- バランスブレイカーの画面を作ってみよう
+- できたらGitHubに更新して、URLを[こちら]()に報告
+
 # 2回目
 ## 話題
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 
-## 予定
+## 内容
 - [手順動画](https://youtu.be/lTNRVO3PPhE)
 - [書く教科書のオリジナルリポジトリー](https://github.com/tanakaedu/csharp-manual)
 
