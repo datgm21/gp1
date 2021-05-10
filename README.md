@@ -33,9 +33,8 @@
 ## 予定
 - `v0513`という名前で新しいプロジェクトを作成
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
-- [手順動画]()
+- [手順動画 Visual C#](https://youtu.be/BVRWsai9NOw)
 - [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
-
 
 ## 演習
 - Visual C#の新規プロジェクトを作成して、名前を`ensyu0513`にする
@@ -44,6 +43,9 @@
 - それぞれのボタンに、押すと何かを表示したり、動いたり、消えたりする機能を実装する
 - プロジェクトの更新をGitHubに反映させる
 - 以上完了したら、GitHubのensyu0513のリポジトリーのURLを[こちら]()に報告する
+
+## 時間があれば
+- [Unityのボタン](https://youtu.be/aP56UZ953Hg)
 
 
 # 2回目
