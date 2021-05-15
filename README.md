@@ -18,6 +18,27 @@
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 
+# 4回目
+## 復習
+- Visual C#の新規プロジェクトを作成して、名前を`fukuv0520`にする
+- GitHubにPublishする
+- ボタンを3つ配置する
+- それぞれのボタンに、押すと何かを表示したり、動いたり、消えたりする機能を実装する
+- プロジェクトの更新をGitHubに反映させる
+- 以上完了したらプログラムを実行して、以下の4枚のスクリーンショットをSlackの自分のtimesチャンネルに貼り付けてください
+  1. ボタンを押す前
+  2. 1つ目のボタンを押した時
+  3. 2つ目のボタンを押した時
+  4. 3つ目のボタン
+
+## 予定
+- [GP1-04:VisualC# データの型、計算](https://youtu.be/Gum71fCVsb4)
+
+## 時間があれば
+- [Unityのボタン](https://youtu.be/aP56UZ953Hg)
+- バランスブレイカーの画面をVisual C#で作成する
+
+
 # 3回目
 ## 準備
 - GitHubを開く > Sign in > csharp-manual を開く
@@ -31,24 +52,12 @@
 
 以上実装が完了したら、実行して、ボタンを押して、メッセージが表示されている画面のスクリーンショットを撮って、Slackの自分のチャンネルに貼り付けてください。
 
-## 予定
+## 内容
 - `v0513`という名前で新しいプロジェクトを作成
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 - [手順動画 Visual C#](https://youtu.be/BVRWsai9NOw)
 - [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
 
-## 演習
-- Visual C#の新規プロジェクトを作成して、名前を`ensyu0513`にする
-- GitHubにPublishする
-- ボタンを3つ配置する
-- それぞれのボタンに、押すと何かを表示したり、動いたり、消えたりする機能を実装する
-- プロジェクトの更新をGitHubに反映させる
-- 以上完了したら、GitHub DesktopのRepositoryメニューから View on GitHub を選択すると、Edgeで公開したGitHubリポジトリーが開く
-- GitHubのensyu0513のリポジトリーのURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)に報告する
-
-## 時間があれば
-- [Unityのボタン](https://youtu.be/aP56UZ953Hg)
-- バランスブレイカーの画面をVisual C#で作成する
 
 # 2回目
 ## 話題
