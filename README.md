@@ -19,6 +19,9 @@
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 
 # 4回目
+## 話題
+- [Christoph Molnar. 説明可能なAI](https://hacarus.github.io/interpretable-ml-book-ja/)
+
 ## 復習
 - Visual C#の新規プロジェクトを作成して、名前を`fukuv0520`にする
 - GitHubにPublishする
