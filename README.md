@@ -22,6 +22,18 @@
 ## 話題
 - [Christoph Molnar. 説明可能なAI](https://hacarus.github.io/interpretable-ml-book-ja/)
 
+## 前回のミスのポイント
+- GitHubにサインイン
+- 前回提出した`ensyu0513`リポジトリーをクリックして選択
+- 以下を確認
+  - 左上の自分のアカウントの左のアイコンが鍵になっていたらPrivate設定なので提出ミス
+    - GitHub DesktopからPublishするときにPrivateを外していない
+    - せっかく提出してもこちらで確認できない
+  - ファイルの一覧を見て、プロジェクトフォルダーや`ensyu0513.sln`ファイルがない
+    - GitHutに登録するフォルダー間違い
+    - 場所の指定でプロジェクト名を削除しなかったか、単純にフォルダーの指定間違い
+    - ソリューションファイルがないので後で開くのが面倒
+
 ## 復習
 - Visual C#の新規プロジェクトを作成して、名前を`fukuv0520`にする
 - GitHubにPublishする
