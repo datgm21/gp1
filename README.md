@@ -18,6 +18,20 @@
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 
+# 5回目
+
+## 復習問題
+
+
+## 予定
+- [GP1-05:]()
+
+## 時間があれば
+- [Unityのボタン](https://youtu.be/aP56UZ953Hg)
+- バランスブレイカーの画面をVisual C#で作成する
+
+
+
 # 4回目
 ## 話題
 - [Christoph Molnar. 説明可能なAI](https://hacarus.github.io/interpretable-ml-book-ja/)
@@ -48,12 +62,8 @@
 
 ※スクリーンショット：　ウィンドウズキー + Shift + S キーを押して、スクリーンショットを取りたい範囲をマウスでドラッグで選択
 
-## 予定
+## 内容
 - [GP1-04:VisualC# データの型、計算](https://youtu.be/Gum71fCVsb4)
-
-## 時間があれば
-- [Unityのボタン](https://youtu.be/aP56UZ953Hg)
-- バランスブレイカーの画面をVisual C#で作成する
 
 
 # 3回目
