@@ -17,8 +17,12 @@
 - [ドットインストール Unity入門](https://dotinstall.com/lessons/basic_unity_v2)
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
+- [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 
 # 5回目
+
+## 話題
+- [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 
 ## 復習問題
 
