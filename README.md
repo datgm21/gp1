@@ -28,7 +28,7 @@
 
 
 ## 予定
-- [GP1-05:]()
+- [GP1-05:VisualC# コントロール(Control)～表現を増やす～](https://youtu.be/MAie5pHmFyg)
 
 ## 時間があれば
 - [Unityのボタン](https://youtu.be/aP56UZ953Hg)
