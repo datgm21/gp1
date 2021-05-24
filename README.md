@@ -31,8 +31,8 @@
 - [GP1-05:VisualC# コントロール(Control)～表現を増やす～](https://youtu.be/MAie5pHmFyg)
 
 ## 時間があれば
-- [GP1-05-Unityのボタン](https://youtu.be/aP56UZ953Hg)
-- [GP1-05-Unityの移動](https://youtu.be/hnsH9L5ZBD8)
+- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+- [GP1-05:Unity 移動](https://youtu.be/hnsH9L5ZBD8)
 - バランスブレイカーの画面をVisual C#で作成する
 
 
