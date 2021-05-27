@@ -32,6 +32,7 @@
   - ボタン(Button)を4つ作って十字に配置
   - ボタンを押した方向にラベルが動くようにする
 - できたらコミットして、Pushする
+- さらに、プログラムコードのスクリーンショットをSlackの自分のチャンネルに貼り付ける
 
 ![image](https://github.com/datgm21/gp1/blob/main/image.png?raw=true)
 
