@@ -25,6 +25,16 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 
 ## 復習問題
+- Visual C#の新規プロジェクトを作成して、名前をfukuv0527にする
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+- 以下のものを作る
+  - ラベル(Label)を1つ
+  - ボタン(Button)を4つ作って十字に配置
+  - ボタンを押した方向にラベルが動くようにする
+- できたらコミットして、Pushする
+
+![image](https://github.com/datgm21/gp1/blob/main/image.png?raw=true)
+
 
 
 ## 予定
