@@ -18,6 +18,18 @@
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
+- [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
+
+# 6回目
+## 復習問題
+
+## 予定
+- 07.md 変数～動的なプログラム～ からをUnityで実施
+
+## 時間があれば
+- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+- バランスブレイカーの画面をVisual C#で作成する
+
 
 # 5回目
 
@@ -37,8 +49,7 @@
 ![image](https://github.com/datgm21/gp1/blob/main/image.png?raw=true)
 
 
-
-## 予定
+## 内容
 - [GP1-05:VisualC# コントロール(Control)～表現を増やす～](https://youtu.be/MAie5pHmFyg)
 
 ## 演習6-1, 6-2のマークダウン
@@ -57,11 +68,8 @@ TextBoxを2つ、Labelを1つ、ボタンを1つ作って、ボタンの表示�
 ```
 
 ## 時間があれば
-- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
 - [GP1-05:Unity 移動](https://youtu.be/hnsH9L5ZBD8)
   - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
-- バランスブレイカーの画面をVisual C#で作成する
-
 
 
 # 4回目
