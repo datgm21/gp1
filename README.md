@@ -24,7 +24,9 @@
 ## 復習問題
 
 ## 予定
-- 07.md 変数～動的なプログラム～ からをUnityで実施
+- 07.md 変数～動的なプログラム～ からをUnityで
+  - [GP1-06 変数](https://youtu.be/z8KlJWFuskc)
+
 
 ## 時間があれば
 - [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
