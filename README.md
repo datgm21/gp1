@@ -42,7 +42,7 @@
 ## 予定
 - 07.md 変数～動的なプログラム～ からをUnityで
   - [GP1-06 変数](https://youtu.be/z8KlJWFuskc)
-
+  - [GP1-07 変数(2)](https://youtu.be/smKALzN0Gus)
 
 ## 時間があれば
 - [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
