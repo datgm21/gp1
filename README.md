@@ -20,6 +20,15 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
+# 7回目
+## 予定
+- 変数の続きから
+  - [GP1-07 変数2](https://youtu.be/smKALzN0Gus?t=2600)
+
+## 時間があれば
+- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+- バランスブレイカーの画面をVisual C#で作成する
+
 # 6回目
 ## 復習問題
 - Visual C#の新規プロジェクトを作成して、名前をfukuv0603にする
@@ -38,16 +47,10 @@
 - ボタンを4つ、十字に配置して、ボタンを押したらその方向にラベルの移動方向が変わるようにする
 - できたらコミットして、Pushする
 
-
-## 予定
+## 内容
 - 07.md 変数～動的なプログラム～ からをUnityで
   - [GP1-06 変数](https://youtu.be/z8KlJWFuskc)
   - [GP1-07 変数(2)](https://youtu.be/smKALzN0Gus)
-
-## 時間があれば
-- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
-- バランスブレイカーの画面をVisual C#で作成する
-
 
 # 5回目
 
