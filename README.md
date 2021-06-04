@@ -21,6 +21,13 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
 # 7回目
+## 前回の課題の結果(18名中)
+- ボーナス含めてパーフェクト 1名
+- 斜め移動ボーナス 3名
+- 問題なし 6名
+- 軽微なミス 1名
+
+
 ## 予定
 - 変数の続きから
   - [GP1-07 変数2](https://youtu.be/smKALzN0Gus?t=2600)
