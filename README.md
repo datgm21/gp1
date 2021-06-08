@@ -31,9 +31,9 @@
 
 ## 予定
 - Unityの`u0603`を開いて前回の振り返り
+- 復習問題
 - 変数の続き
   - [GP1-07 変数2](https://youtu.be/smKALzN0Gus?t=2600)
-- 復習問題
 - [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk)
 
 
