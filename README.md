@@ -35,6 +35,8 @@
 
 ## 時間があれば
 - [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+- [GP1-08:if文 / witch文](https://youtu.be/fDBRR3xg_Tk)
+- [GP1-08:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
 - バランスブレイカーの画面をVisual C#で作成する
 
 # 6回目
