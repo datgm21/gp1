@@ -30,12 +30,15 @@
 - 時間オーバー、提出ミス 5名
 
 ## 予定
-- 変数の続きから
+- Unityの`u0603`を開いて前回の振り返り
+- 変数の続き
   - [GP1-07 変数2](https://youtu.be/smKALzN0Gus?t=2600)
+- 復習問題
+- [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk)
+
 
 ## 時間があれば
 - [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
-- [GP1-08:if文 / witch文](https://youtu.be/fDBRR3xg_Tk)
 - [GP1-08:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
 - バランスブレイカーの画面をVisual C#で作成する
 
