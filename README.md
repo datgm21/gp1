@@ -64,14 +64,14 @@
 
 
 
-## 予定
+## 内容
 - Unityの`u0603`を開いて前回の振り返り
 - 復習問題
   - [完成例](https://github.com/datgm21/fukuvHensu)
 - 変数の続き
   - [GP1-07 変数2](https://youtu.be/smKALzN0Gus?t=2600)
 - [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk)
-
+  - [完成リポジトリー](https://github.com/datgm21/fukuvHensu)
 
 ## 時間があれば
 - [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
