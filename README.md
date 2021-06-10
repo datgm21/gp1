@@ -20,6 +20,18 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
+# 8回目
+
+## 予定
+- if文のスピードアップの残り
+- [GP1-08:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
+- if文2
+
+## 時間があれば
+- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+- バランスブレイカーの画面をVisual C#で作成する
+
+
 # 7回目
 
 - **6/16(水)のゲームデザイン実習は、ゲームプログラミング実習の班分けのための筆記試験の予定**
@@ -35,6 +47,7 @@
 - 軽微なミス 1名
 - int.Parse()未使用 2名
 - 時間オーバー、提出ミス 5名
+
 
 ## 復習問題
 - Visual C#の新規プロジェクトを作成して、名前を`fukuvHensu`にする
@@ -53,6 +66,7 @@
 - ボタンを押すと、それぞれの場所に合わせてラベルが移動方向を変えるようにする
 - できたらコミットしてPushする
 
+
 ### ボーナス問題
 上記ができた人向けのボーナス課題。
 
@@ -63,20 +77,14 @@
 - できたらコミットしてPushする
 
 
-
 ## 内容
 - Unityの`u0603`を開いて前回の振り返り
 - 復習問題
-  - [完成例](https://github.com/datgm21/fukuvHensu)
 - 変数の続き
   - [GP1-07 変数2](https://youtu.be/smKALzN0Gus?t=2600)
 - [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk)
-  - [完成リポジトリー](https://github.com/datgm21/fukuvHensu)
+  - [完成例](https://github.com/datgm21/fukuvHensu)
 
-## 時間があれば
-- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
-- [GP1-08:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
-- バランスブレイカーの画面をVisual C#で作成する
 
 # 6回目
 ## 復習問題
