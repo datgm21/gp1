@@ -34,7 +34,6 @@
 
 
 ## 予定
-- if文のスピードアップの残り
 - [GP1-08:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
 - if文2
 
