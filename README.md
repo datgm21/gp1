@@ -32,7 +32,7 @@
 
 テキストボックスの非表示設定ミスがやや多かった。
 
-## 予定0
+## 予定
 - [GP1-10:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
 - [GP1-11:VisualC# if文その2](https://youtu.be/1ZgvaXR5Q00)
 - [GP1-12:VisualC# 乱数](https://youtu.be/l3oxBJuWzbE)
