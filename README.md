@@ -32,10 +32,10 @@
 
 テキストボックスの非表示設定ミスがやや多かった。
 
-
-## 予定
+## 予定0
 - [GP1-10:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
-- if文2
+- [GP1-11:VisualC# if文その2](https://youtu.be/1ZgvaXR5Q00)
+- [GP1-12:VisualC# 乱数](https://youtu.be/l3oxBJuWzbE)
 
 ## 時間があれば
 - [GP1-04:Unity ボタン](https://youtu.be/aP56UZ953Hg)
