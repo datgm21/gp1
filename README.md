@@ -34,11 +34,11 @@
 
 
 ## 予定
-- [GP1-08:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
+- [GP1-10:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
 - if文2
 
 ## 時間があれば
-- [GP1-05:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+- [GP1-04:Unity ボタン](https://youtu.be/aP56UZ953Hg)
 - バランスブレイカーの画面をVisual C#で作成する
 
 
@@ -116,7 +116,7 @@
 
 ## 内容
 - 07.md 変数～動的なプログラム～ からをUnityで
-  - [GP1-06 変数](https://youtu.be/z8KlJWFuskc)
+  - [GP1-07 変数](https://youtu.be/z8KlJWFuskc)
   - [GP1-07 変数(2)](https://youtu.be/smKALzN0Gus)
 
 # 5回目
@@ -138,7 +138,7 @@
 
 
 ## 内容
-- [GP1-05:VisualC# コントロール(Control)～表現を増やす～](https://youtu.be/MAie5pHmFyg)
+- [GP1-06:VisualC# コントロール(Control)～表現を増やす～](https://youtu.be/MAie5pHmFyg)
 
 ## 演習6-1, 6-2のマークダウン
 
@@ -156,7 +156,7 @@ TextBoxを2つ、Labelを1つ、ボタンを1つ作って、ボタンの表示�
 ```
 
 ## 時間があれば
-- [GP1-05:Unity 移動](https://youtu.be/hnsH9L5ZBD8)
+- [GP1-06:Unity 移動](https://youtu.be/hnsH9L5ZBD8)
   - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
 
@@ -191,7 +191,7 @@ TextBoxを2つ、Labelを1つ、ボタンを1つ作って、ボタンの表示�
 ※スクリーンショット：　ウィンドウズキー + Shift + S キーを押して、スクリーンショットを取りたい範囲をマウスでドラッグで選択
 
 ## 内容
-- [GP1-04:VisualC# データの型、計算](https://youtu.be/Gum71fCVsb4)
+- [GP1-05:VisualC# データの型、計算](https://youtu.be/Gum71fCVsb4)
 
 
 # 3回目
