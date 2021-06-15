@@ -35,6 +35,10 @@
 
 テキストボックスの非表示設定ミスがやや多かった。
 
+## 復習問題
+- [座席]()
+
+
 ## 予定
 - [GP1-10:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
 - [GP1-11:VisualC# if文その2](https://youtu.be/1ZgvaXR5Q00)
