@@ -20,6 +20,14 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
+# 9回目
+
+## 講義準備
+
+
+## 予定
+- [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
+
 # 8回目
 
 ## 話題
@@ -59,8 +67,7 @@
 - 以上できたらコミットしてPushする
 
 
-
-## 予定
+## 内容
 - [GP1-10:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
   - [ここまでのプロジェクト](https://github.com/datgm21/v0617)
 - [GP1-11:VisualC# if文その2](https://youtu.be/1ZgvaXR5Q00)
