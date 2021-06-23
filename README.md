@@ -30,6 +30,9 @@
 - [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
 - [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
 
+## 時間が余ったら
+- [よけとる2021 for VisualStudio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+
 # 8回目
 
 ## 話題
