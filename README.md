@@ -27,6 +27,7 @@
 
 ## 予定
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
+- [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
 
 # 8回目
 
