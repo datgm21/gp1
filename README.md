@@ -22,6 +22,8 @@
 
 # 9回目
 
+**手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
+
 ## 講義準備
 
 
