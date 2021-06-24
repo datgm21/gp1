@@ -20,6 +20,14 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
+# 10回目
+
+## 予定
+- Visual C#版よけとる作成
+
+## 時間が余ったら
+- [よけとる2021 for VisualStudio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+
 # 9回目
 
 **手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
@@ -48,14 +56,10 @@
   - 時間が余ったら自由に改造する
 
 
-
-## 予定
+## 内容
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
 - [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
 - [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
-
-## 時間が余ったら
-- [よけとる2021 for VisualStudio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
 
 # 8回目
 
