@@ -22,11 +22,12 @@
 
 # 10回目
 
-## 予定
-- Visual C#版よけとる作成
+**手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
-## 時間が余ったら
-- [よけとる2021 for VisualStudio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+## 予定
+- 前回の復習 ArrayPractice
+- [GP1-16:VisualC# よけとる(1)](https://youtu.be/E0whq82tSBM)
+  - [よけとる2021 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
 
 # 9回目
 
@@ -54,7 +55,6 @@
   - マウスが重なった時、タイマーは止めずにラベルが消えるようにする
   - 3つラベルが消えたらタイマーを止めるようにする
   - 時間が余ったら自由に改造する
-
 
 ## 内容
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
