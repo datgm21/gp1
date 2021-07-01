@@ -20,6 +20,11 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
+# 11回目
+## 予定
+- [よけとる2021 for Visual Studio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+  - 「マウスカーソルとラベルの当たり判定を作る」の答え合わせから
+
 # 10回目
 
 ## 話題
