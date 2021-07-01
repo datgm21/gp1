@@ -22,6 +22,11 @@
 
 # 10回目
 
+## 話題
+- [CGWORLD. マネジメントから見た新規採用座談会](https://cgworld.jp/special/jam/vol3/program/710/)
+- [@shothym. 「なんとなく」コードレビューしてませんか？](https://qiita.com/shothym/items/6b1d47900d2405cccdcf)
+
+
 **手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
 ## 予定
