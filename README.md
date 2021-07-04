@@ -34,7 +34,7 @@
 
 **手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
-## 予定
+## 内容
 - 前回の復習 ArrayPractice
 - [よけとる2021 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - [GP1-16:VisualC# よけとる(1)](https://youtu.be/E0whq82tSBM)
