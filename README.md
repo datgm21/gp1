@@ -36,8 +36,9 @@
 
 ## 予定
 - 前回の復習 ArrayPractice
-- [GP1-16:VisualC# よけとる(1)](https://youtu.be/E0whq82tSBM)
-  - [よけとる2021 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+- [よけとる2021 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+  - [GP1-16:VisualC# よけとる(1)](https://youtu.be/E0whq82tSBM)
+  - [GP1-16:VisualC# よけとる(2)キャラ出現](https://youtu.be/94GlDID6Nb8)
 
 # 9回目
 
