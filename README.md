@@ -21,9 +21,13 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
 # 11回目
+
+**手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
+
 ## 予定
 - [よけとる2021 for Visual Studio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - 「マウスカーソルとラベルの当たり判定を作る」の答え合わせから
+- [よけとるVS2021 TODOリスト](https://github.com/datgm21/gp1/wiki/%E3%82%88%E3%81%91%E3%81%A8%E3%82%8BVS2021-TODO%E3%83%AA%E3%82%B9%E3%83%88)
 
 # 10回目
 
