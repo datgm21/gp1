@@ -24,6 +24,14 @@
 
 **手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
+## 先週休みの場合
+- [7/1作業完了プロジェクトのzip](https://github.com/datgm21/YoketoruVS21/archive/refs/tags/ver0701.zip)を右クリックして 新しいタブで開く
+- zipファイルのダウンロードが完了したら、ダウンロードフォルダーを開く
+- ダウンロードした `` を切り取って、ドキュメントの自分のフォルダーの中に貼り付ける
+- 貼り付けたzipファイルを右クリックして、7-Zip > ここに展開 を選択
+- YoketoruVS21-ver0701 というフォルダーができるので、GitHub Desktop で新しいリポジトリーとして登録して、Publish
+- 展開したフォルダーにあるslnファイルをダブルクリックして開く
+
 ## 予定
 - [よけとる2021 for Visual Studio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - 「マウスカーソルとラベルの当たり判定を作る」の答え合わせから
