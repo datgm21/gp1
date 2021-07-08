@@ -37,6 +37,7 @@
 - [よけとるVS2021 TODOリスト](https://github.com/datgm21/gp1/wiki/%E3%82%88%E3%81%91%E3%81%A8%E3%82%8BVS2021-TODO%E3%83%AA%E3%82%B9%E3%83%88)
 - [よけとる2021 for Visual Studio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - [GP1-16:VisualC# よけとる(4)キャラ移動](https://youtu.be/Ovlm6yYhxpE)
+  - [GP1-16:VisualC# よけとる(5)完成](https://youtu.be/ekr2tlHEPHo)
 
 # 10回目
 
