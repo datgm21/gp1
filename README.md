@@ -38,6 +38,7 @@
 - [よけとる2021 for Visual Studio](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - [GP1-16:VisualC# よけとる(4)キャラ移動](https://youtu.be/Ovlm6yYhxpE)
   - [GP1-16:VisualC# よけとる(5)完成](https://youtu.be/ekr2tlHEPHo)
+- [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 # 10回目
 
