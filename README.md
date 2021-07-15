@@ -2,6 +2,7 @@
 - [シラバス](https://drive.google.com/file/d/19wVSBpL08nnUIp8ZX9r5RmHoJM_Z40OZ/)
 - [質問](https://meet.google.com/nfe-tjom-mtb)
 - [Slack](https://datgm21.slack.com)
+- [日程](https://github.com/datgm21/gp1/blob/main/thus.md)
 - その他
   - [C#書く教科書　記入例](https://github.com/datgm21/csharp-manual)
   - [授業動画](https://github.com/datgm21/gp1/wiki/%E5%BE%A9%E7%BF%92%E7%94%A8%E5%8B%95%E7%94%BB)
