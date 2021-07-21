@@ -22,14 +22,22 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 12回目
-
+# 13回目
 **手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
 ## 予定
+
+- [よけとる for Unityの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/) タイムの実装から
+- [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
+- unityroomへアップ
+- よけとるアレンジ案の検討
+
+
+# 12回目
+
+## 内容
 - [よけとる for Unityの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/)
 - [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
-
 
 
 # 11回目
