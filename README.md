@@ -23,9 +23,35 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 # 13回目
-**手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
+
+## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
+
+UnityのWebGL、あるいは、clusterで、オリジナルの要素やルール、キャラクターを一つ以上加えた作品を完成させて、前者なら[unityroom](https://unityroom.com/)、後者なら[cluster](https://cluster.mu/)にアップロードしてください。公開状態は、限定公開や非公開で構いません。
+
+以下のいずれかを採用すればそれほど大変ではないはず。
+
+- 「よけとる for Unity」の画面レイアウトを変えたり、操作方法を変えたり、キャラクターの性質を変えて別物にする
+- Unityの書籍、チュートリアル、ブログなどから良さそうなものを見つけて、自分で実装した後、一部にアレンジを加える
+- アセットストアからよさそうな完成プロジェクトを見つけて改造する
+- もちろん、完全オリジナルでも構わない
+
+以下を守ること。
+
+- プログラミングの変更や追加があること。絵や音、フォントのみの変更は不可
+- フリー素材を利用した場合は、その素材の著作者名と入手元URLを記録しておくこと。unityroomには使用アセットの登録欄があるので利用するとよい
+- ゲームの概要、操作方法、遊び方を簡潔にまとめておく
+
+夏休み明けに発表予定。
+
+### 参考
+- [Visual C#の講義動画](https://github.com/datgm21/gp1/wiki/%E5%BE%A9%E7%BF%92%E7%94%A8%E5%8B%95%E7%94%BB)
+- よけとる for Unityの作業メモ [その1](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/), [その2](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/), [その3](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/)
+
+
 
 ## 予定
+
+**手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
 - [よけとる for Unityの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/) タイムの実装から
 - [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
