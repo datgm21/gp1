@@ -24,6 +24,9 @@
 
 # 13回目
 
+## 話題
+- [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
+
 ## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
 
 UnityのWebGL、あるいは、clusterで、オリジナルの要素やルール、キャラクターを一つ以上加えた作品を完成させて、前者なら[unityroom](https://unityroom.com/)、後者なら[cluster](https://cluster.mu/)にアップロードする。公開状態は、限定公開や非公開でよい。
