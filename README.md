@@ -24,7 +24,7 @@
 
 # 13回目
 
-unityroomに投稿したURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)へ報告
+unityroomに投稿して、限定公開したURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)へ報告
 
 ## 話題
 - [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
