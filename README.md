@@ -24,6 +24,11 @@
 
 # 14回目(9/1)
 
+## 予定
+- 夏休み課題の仕上げと質疑応答
+- 前期末共通課題
+
+
 ## 前期課題 ゲームデザイン実習/ゲームプログラミング共通課題
 
 [課題詳細](https://docs.google.com/document/d/1QkyTcS0dhmBYcvE5owf5mDQSYJKpDDzO1LkCZf52ZHQ/)の指示に従って、以下を提出する。
