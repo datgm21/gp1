@@ -22,6 +22,25 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 14回目(9/1)
+
+## 前期課題 ゲームデザイン実習/ゲームプログラミング共通課題
+
+[課題詳細](https://docs.google.com/document/d/1QkyTcS0dhmBYcvE5owf5mDQSYJKpDDzO1LkCZf52ZHQ/)の指示に従って、以下を提出する。
+
+- 夏休みに制作したUnity、あるいは、clusterの作品に 課題詳細 の項目を入力して、限定公開(あるいは公開)してURLを報告
+- Unityプロジェクトを手順に従ってまとめて、Googleドライブにアップロードしたものを共有して報告
+
+締め切り
+- 9/2(木) 13時 までに提出されたもので合否判定
+- 9/9(木) 13時 まで更新可能。ボーナス点対象
+
+## 次回15回目(9/8)予定
+- 1週間ゲームジャムの企画・開発
+- 9/2までに仕上がらなかった課題があれば仕上げる
+
+
+
 # 13回目
 
 unityroomに投稿して、限定公開したURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)へ報告
@@ -54,7 +73,7 @@ UnityのWebGL、あるいは、clusterで、オリジナルの要素やルール
 - よけとる for Unityの作業メモ [その1](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/), [その2](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/), [その3](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/)
 
 
-## 予定
+## 内容
 
 **手順を追うのが難しい場合は[こちら](https://docs.google.com/document/d/1SFFFsDAYFZP-zj9qILi9KOxkvrY8rKVmBR40T5zX5K8/)を参考にして、VRワールド共有サービスclusterのワールドの作成に挑戦してみてください。**
 
