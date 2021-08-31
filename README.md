@@ -23,6 +23,9 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 # 14回目(9/1)
+## 話題
+- [Ledge inc. 東京大学、Pythonプログラミング無料入門](https://ledge.ai/ut-python/)
+  - [東京大学. Pythonプログラミング入門](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
 
 ## 予定
 - 夏休み課題の仕上げと質疑応答
