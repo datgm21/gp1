@@ -33,6 +33,7 @@
 
 ## 予定
 - 夏休み課題の仕上げと質疑応答
+  - [提出状況](https://github.com/datgm21/gp1/blob/main/gp1a_14.md)
 - 前期末共通課題
 
 
