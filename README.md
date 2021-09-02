@@ -23,6 +23,12 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 15回目(9/8)
+## 予定
+- [不具合を解消する](https://docs.google.com/document/d/17ID2_AcLd6u9Ld6aNY-bGuJuw1gDkgNkgrJqIL2kXjw/)
+- 1週間ゲームジャム
+
+
 # 14回目(9/1)
 ## 話題
 - [Ledge inc. 東京大学、Pythonプログラミング無料入門](https://ledge.ai/ut-python/)
@@ -31,7 +37,7 @@
 ## ネットランキング
 - [naichi's lab. 【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](https://blog.naichilab.com/entry/webgl-simple-ranking)
 
-## 予定
+## 内容
 - 夏休み課題の仕上げと質疑応答
   - [提出状況](https://github.com/datgm21/gp1/blob/main/gp1a_14.md)
 - 前期末共通課題
