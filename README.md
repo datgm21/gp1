@@ -26,6 +26,7 @@
 # 15回目(9/8)
 ## 予定
 - [不具合を解消する](https://docs.google.com/document/d/17ID2_AcLd6u9Ld6aNY-bGuJuw1gDkgNkgrJqIL2kXjw/)
+  - `Z:\student\gp1\不具合を解消する`
 - 1週間ゲームジャム
 
 
