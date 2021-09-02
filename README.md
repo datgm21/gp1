@@ -28,6 +28,9 @@
 - [Ledge inc. 東京大学、Pythonプログラミング無料入門](https://ledge.ai/ut-python/)
   - [東京大学. Pythonプログラミング入門](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
 
+## ネットランキング
+- [naichi's lab. 【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](https://blog.naichilab.com/entry/webgl-simple-ranking)
+
 ## 予定
 - 夏休み課題の仕上げと質疑応答
 - 前期末共通課題
