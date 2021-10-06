@@ -23,8 +23,16 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 15回目(9/8)
+# 後期1回目(10/14)
 ## 予定
+- [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
+- [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+
+
+---
+
+# 15回目(9/8)
+## 内容
 - [不具合を解消する](https://docs.google.com/document/d/17ID2_AcLd6u9Ld6aNY-bGuJuw1gDkgNkgrJqIL2kXjw/)
   - `Z:\student\gp1\不具合を解消する`
 - 1週間ゲームジャム
