@@ -24,6 +24,9 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 # 後期1回目(10/14)
+## 話題
+- [cluster. バーチャル渋谷 au5G ハロウィーンフェス](https://vcity.au5g.jp/shibuya/halloween2021#sanka) 10/16-31
+
 ## 予定
 - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
 - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
