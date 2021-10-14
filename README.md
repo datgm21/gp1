@@ -27,6 +27,11 @@
 ## 話題
 - [cluster. バーチャル渋谷 au5G ハロウィーンフェス](https://vcity.au5g.jp/shibuya/halloween2021#sanka) 10/16-31
 
+## ファイルの共有場所
+- `Z:\student\gp1\DATフェスタ`フォルダー内に作品名や開発コード名のフォルダーを作成して、その中で必要なデータをやりとりする
+- 共有ドライブは不慮の削除などがあり得るので、データの受け渡し場所と考える
+- 学外からは見えないので、チーム内で運用できるならGoogle Driveが便利
+
 ## 予定
 - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
 - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
