@@ -12,6 +12,7 @@
   - [昨年度の講義資料](https://github.com/datgm20/gp1)
 
 ## 参考URL
+- [最初の設計方針](https://docs.google.com/document/d/1Ot_jadhsFOjefdIhCJYXgoVQkaul-6bOnTWJ0JsWOxo/)
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [UNITYのインストール手順](https://am1.games/tutorials/unity/install/)
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
