@@ -24,6 +24,12 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 後期2回目(10/21)
+## 話題
+- [GCG@ゲームクリエイター就活情報！](https://twitter.com/game4jobhunter)
+- [Game Creators Guild. 脱NNT。不採用ってどうしてなるの？選考ステップから分析しよう](https://game.creators-guild.com/g4c/shukatsu-20210614/)
+- 参考 [ゲーム業界仕事サミット online 11/13(土)、14(日)](https://www.kurihaku.jp/2023/news/detail/1058/?utm_content=183919394&utm_medium=social&utm_source=twitter&hss_channel=tw-1270917359868379138)
+
 # 後期1回目(10/14)
 ## 話題
 - [cluster. バーチャル渋谷 au5G ハロウィーンフェス](https://vcity.au5g.jp/shibuya/halloween2021#sanka) 10/16-31
