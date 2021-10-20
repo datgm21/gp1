@@ -12,6 +12,7 @@
   - [昨年度の講義資料](https://github.com/datgm20/gp1)
 
 ## 参考URL
+- [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
 - [最初の設計方針](https://docs.google.com/document/d/1Ot_jadhsFOjefdIhCJYXgoVQkaul-6bOnTWJ0JsWOxo/)
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [UNITYのインストール手順](https://am1.games/tutorials/unity/install/)
@@ -30,6 +31,10 @@
 - [Game Creators Guild. 脱NNT。不採用ってどうしてなるの？選考ステップから分析しよう](https://game.creators-guild.com/g4c/shukatsu-20210614/)
 - 参考 [ゲーム業界仕事サミット online 11/13(土)、14(日)](https://www.kurihaku.jp/2023/news/detail/1058/?utm_content=183919394&utm_medium=social&utm_source=twitter&hss_channel=tw-1270917359868379138)
 
+## 本日の目標
+- Unityチームはシーンの循環
+- clusterチームはシーンの結合とclusterへのアップロード
+
 # 後期1回目(10/14)
 ## 話題
 - [cluster. バーチャル渋谷 au5G ハロウィーンフェス](https://vcity.au5g.jp/shibuya/halloween2021#sanka) 10/16-31
@@ -39,7 +44,7 @@
 - 共有ドライブは不慮の削除などがあり得るので、データの受け渡し場所と考える
 - 学外からは見えないので、チーム内で運用できるならGoogle Driveが便利
 
-## 予定
+## 内容
 - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
 - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
 
