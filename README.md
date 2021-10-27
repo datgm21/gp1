@@ -25,6 +25,18 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 後期3回目(10/28)
+## 予定
+- [残りの必須項目の確認](https://docs.google.com/document/d/1XUdixbW4NsI3-HQYdwXKqdsXmrwsTjUBYza7D-1nn5w/)
+- インストラクションカードに書く内容の準備
+
+## ゲームのインストラクションカードの作成
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+- A4カラー 1ページ
+- ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+
+
 # 後期2回目(10/21)
 ## 話題
 - [GCG@ゲームクリエイター就活情報！](https://twitter.com/game4jobhunter)
