@@ -29,6 +29,7 @@
 ## 予定
 - [残りの必須項目の確認](https://docs.google.com/document/d/1XUdixbW4NsI3-HQYdwXKqdsXmrwsTjUBYza7D-1nn5w/)
 - インストラクションカードに書く内容の準備
+- 作業と質疑応答
 
 ## ゲームのインストラクションカードの作成
 - [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
