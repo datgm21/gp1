@@ -26,6 +26,12 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 # 後期3回目(10/28)
+
+## 提出場所
+- Unityチームは `Z:\student\gp1\DATフェスタ\実行ファイル` フォルダー内に作品名のフォルダーを作成して、そこにビルドしたファイル一式をコピー
+- ClusterチームはURLをSlackのGeneralチャンネルに報告
+
+
 ## 予定
 - [残りの必須項目の確認](https://docs.google.com/document/d/1XUdixbW4NsI3-HQYdwXKqdsXmrwsTjUBYza7D-1nn5w/)
 - インストラクションカードに書く内容の準備
