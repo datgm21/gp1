@@ -25,6 +25,30 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 後期4回目(11/4)
+
+## 提出場所
+- Unityチームは `Z:\student\gp1\DATフェスタ\実行ファイル` フォルダー内に作品名のフォルダーを作成して、そこにビルドしたファイル一式をコピー
+- ClusterチームはURLをSlackのGeneralチャンネルに報告
+
+## 予定
+- 最小要件を満たすようにまとめ次第、上記の提出場所に提出
+  - 最小要件 - Unityプロジェクト
+    - ゲームがタイトルからはじめて、タイトルに戻る
+    - ミス、ステージクリアが実装されている
+  - 最小要件 - cluster
+    - ワープやリスタートが組み込まれている
+    - クイズ班は、行ける場所に全てクイズを仕込んでいる
+- インストラクションカードの作成
+- 作業と質疑応答
+
+## ゲームのインストラクションカードの作成
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+- A4カラー 1ページ
+- ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+
+
 # 後期3回目(10/28)
 
 ## 提出場所
@@ -32,7 +56,7 @@
 - ClusterチームはURLをSlackのGeneralチャンネルに報告
 
 
-## 予定
+## 内容
 - [残りの必須項目の確認](https://docs.google.com/document/d/1XUdixbW4NsI3-HQYdwXKqdsXmrwsTjUBYza7D-1nn5w/)
 - インストラクションカードに書く内容の準備
 - 作業と質疑応答
