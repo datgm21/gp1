@@ -27,6 +27,8 @@
 
 # 後期4回目(11/4)
 
+- [残りの必須項目の確認](https://docs.google.com/document/d/1XUdixbW4NsI3-HQYdwXKqdsXmrwsTjUBYza7D-1nn5w/)
+
 ## 提出場所
 - Unityチームは `Z:\student\gp1\DATフェスタ\実行ファイル` フォルダー内に作品名のフォルダーを作成して、そこにビルドしたファイル一式をコピー
 - ClusterチームはURLをSlackのGeneralチャンネルに報告
