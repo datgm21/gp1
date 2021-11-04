@@ -29,6 +29,12 @@
 
 - [残りの必須項目の確認](https://docs.google.com/document/d/1XUdixbW4NsI3-HQYdwXKqdsXmrwsTjUBYza7D-1nn5w/)
 
+## よけとる for Unity
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM/)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY/)
+
 ## 提出場所
 - Unityチームは `Z:\student\gp1\DATフェスタ\実行ファイル` フォルダー内に作品名のフォルダーを作成して、そこにビルドしたファイル一式をコピー
 - ClusterチームはURLをSlackのGeneralチャンネルに報告
