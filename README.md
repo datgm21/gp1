@@ -33,6 +33,12 @@
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 提出された作品についてまとめ方を検討する
   - 担当箇所についての簡単なレポートの作成
+    - Chromeを開いて、 gmail を開いてログイン
+    - 右上の googleアプリ ボタンを押して、ドキュメント
+    - 空白 をクリック
+    - 左上の「無題のドキュメント」をクリックして、「DATフェスタ担当作業：氏名」にする。氏名の部分は自分の名前に置き換え
+    - 右上の共有ボタンを押して、「リンクを知っている全員に変更」をクリックして、リンクをコピーをクリックして完了
+    - [ここ](https://docs.google.com/forms/d/e/1FAIpQLScc9scLVvYA8nCuFTSHURvQtOBTEZL2bilB6GWgb78jMYkgFA/viewform?usp=sf_link)に氏名とURLを貼り付けて報告
 - [clusterのトリガーやギミックに見る設計思想](https://docs.google.com/document/d/1OtxnAmo3AEo3qWFJ7XSdrDGL6gaIf6JV7Blgxq22Xik/)
 
 # 後期4回目(11/4)
