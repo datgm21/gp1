@@ -25,12 +25,19 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 後期5回目(11/18)
+# 後期6回目(11/25)
 
 ## 予定
-- [Unityの命名規則とエディター設定 ](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - オブジェクト指向とは
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
+- 各チームの設計を考える
+- Cluster 乗り物をいじる
+
+
+# 後期5回目(11/18)
+
+## 内容
+- [Unityの命名規則とエディター設定 ](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - 提出された作品についてまとめ方を検討する
   - 担当箇所についての簡単なレポートの作成
     - Chromeを開いて、 gmail を開いてログイン
