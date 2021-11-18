@@ -32,7 +32,8 @@
 - オブジェクト指向とは
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 提出された作品についてまとめ方を検討する
-- clusterのトリガーやギミックに見る設計思想
+  - 担当箇所についての簡単なレポートの作成
+- [clusterのトリガーやギミックに見る設計思想](https://docs.google.com/document/d/1OtxnAmo3AEo3qWFJ7XSdrDGL6gaIf6JV7Blgxq22Xik/)
 
 # 後期4回目(11/4)
 
