@@ -1,6 +1,6 @@
 # 2021年度生 ゲームプログラミング入門1
 - [シラバス](https://drive.google.com/file/d/19wVSBpL08nnUIp8ZX9r5RmHoJM_Z40OZ/)
-- [座席](https://docs.google.com/spreadsheets/d/1ME6uVxFCN69MB9Gq3_mOHMKYr3SEBsZAiArfhHkZtCE/)
+- [座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 - [質問](https://meet.google.com/jdv-ebbs-bjp)
 - [Slack](https://datgm21.slack.com)
 - [日程](https://github.com/datgm21/gp1/blob/main/thus.md)
@@ -27,7 +27,10 @@
 
 # 後期6回目(11/25)
 
+[後期座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)はゲームデザイン実習と同じ
+
 ## 予定
+- プログラムはデータとフローでできている
 - オブジェクト指向とは
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 各チームの設計を考える
