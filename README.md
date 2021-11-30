@@ -29,8 +29,8 @@
 [後期座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)はゲームデザイン実習と同じ
 
 ## 予定
+- 先週の復習：[プログラムはフローとデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
 - オブジェクト指向とは
-  - [プログラムはフローとデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 各チームの設計を考える
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
