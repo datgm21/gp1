@@ -26,7 +26,11 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 # 後期7回目(12/2)
+
 [後期座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)はゲームデザイン実習と同じ
+
+## 話題
+- [paiza開発日誌. 開発言語だけじゃない！「ITエンジニアに求められるスキル」とは？新卒研修資料まとめ](https://paiza.hatenablog.com/entry/2021/11/29/130000#%E3%81%8A%E3%82%82%E3%81%AA%E6%8F%90%E4%BE%9B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 
 ## 予定
 - 先週の復習：[プログラムはフローとデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
