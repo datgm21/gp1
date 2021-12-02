@@ -35,7 +35,7 @@
 ## 予定
 - [プログラムはフローとデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
   - テキストファイルの利用
-- オブジェクト指向とは
+- オブジェクト指向とは - 継承
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 各チームの設計を考える
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
@@ -48,7 +48,7 @@
 ## 内容
 - [プログラムはフローとデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
   - フローから繰り返しへ
-- オブジェクト指向とは
+- オブジェクト指向とは - 用語とカプセル化
   - 参考 [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 各チームの設計を考える
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
