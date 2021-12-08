@@ -25,6 +25,16 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 後期8回目(12/9)
+
+## 予定
+- [オブジェクト指向プログラミング](https://docs.microsoft.com/ja-jp/dotnet/csharp/fundamentals/object-oriented/)
+  - [インターフェイス](https://docs.microsoft.com/ja-jp/dotnet/csharp/fundamentals/types/interfaces)を使った全滅管理システム
+- 各チームの設計を考える
+  - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
+  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
+- Cluster 乗り物をいじる
+
 # 後期7回目(12/2)
 
 [後期座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)はゲームデザイン実習と同じ
@@ -32,7 +42,7 @@
 ## 話題
 - [paiza開発日誌. 開発言語だけじゃない！「ITエンジニアに求められるスキル」とは？新卒研修資料まとめ](https://paiza.hatenablog.com/entry/2021/11/29/130000#%E3%81%8A%E3%82%82%E3%81%AA%E6%8F%90%E4%BE%9B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 
-## 予定
+## 内容
 - [プログラムはフローとデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
   - テキストファイルの利用
 - オブジェクト指向とは - 継承
