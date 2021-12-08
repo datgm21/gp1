@@ -28,6 +28,8 @@
 # 後期8回目(12/9)
 
 ## 予定
+- チェックポイントとリスポーン
+  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)の復活位置の制御方法を参考に制作する
 - [オブジェクト指向プログラミング](https://docs.microsoft.com/ja-jp/dotnet/csharp/fundamentals/object-oriented/)
   - [インターフェイス](https://docs.microsoft.com/ja-jp/dotnet/csharp/fundamentals/types/interfaces)を使った全滅管理システム
 - 各チームの設計を考える
