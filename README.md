@@ -31,6 +31,8 @@
 - チェックポイントとリスポーン
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)の復活位置の制御方法を参考に制作する
   - [サンプルプロジェクト](https://github.com/tanakaedu/RespawnPointSample)
+- プロジェクトの整理
+  - ファイルサイズの調査 [Dolphiiiin. Unityのビルドサイズ削減に使えるBuild Report Inspector](https://zenn.dev/dolphiiiin/articles/366fc43210db30)
 - [オブジェクト指向プログラミング](https://docs.microsoft.com/ja-jp/dotnet/csharp/fundamentals/object-oriented/)
   - [インターフェイス](https://docs.microsoft.com/ja-jp/dotnet/csharp/fundamentals/types/interfaces)を使った全滅管理システム
 - 各チームの設計を考える
