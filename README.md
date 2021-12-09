@@ -39,6 +39,7 @@
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
 - Cluster 乗り物をいじる
+  - ライントレーサーでコース上を走らせる
 
 # 後期7回目(12/2)
 
