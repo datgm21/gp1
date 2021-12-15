@@ -31,6 +31,7 @@
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
     - 15日の作業について、ユニティちゃんのRigidbodyのinterpolateをいじっていたかも知れないので確認。原因ではなかったので元に戻して良い
+    - [プレイヤー移動](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/edit#heading=h.3o81w4ubf5kd)
 - Cluster 乗り物をいじる
 
 # 後期8回目(12/9)
