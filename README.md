@@ -25,9 +25,17 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 後期9回目(12/16)
+## 予定
+- 各チームの設計を考える
+  - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
+  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
+    - 15日の作業について、ユニティちゃんのRigidbodyのinterpolateをいじっていたかも知れないので確認。原因ではなかったので元に戻して良い
+- Cluster 乗り物をいじる
+
 # 後期8回目(12/9)
 
-## 予定
+## 内容
 - チェックポイントとリスポーン
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)の復活位置の制御方法を参考に制作する
   - [サンプルプロジェクト](https://github.com/tanakaedu/RespawnPointSample)
