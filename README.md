@@ -30,8 +30,6 @@
 - 各チームの設計を考える
   - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
   - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
-    - 15日の作業について、ユニティちゃんのRigidbodyのinterpolateをいじっていたかも知れないので確認。原因ではなかったので元に戻して良い
-    - [プレイヤー移動](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/edit#heading=h.3o81w4ubf5kd)
 - Cluster
   - カウンター
   - 仕掛け
