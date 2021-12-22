@@ -49,7 +49,7 @@
 
 ## 予定
 - 正月課題、および、1週間ゲームジャムに取り組む
-  - [参考](https://www.notion.so/050eaa33f7d248cfadb96436de748e70)
+  - [参考](https://hilarious-tenor-ff6.notion.site/050eaa33f7d248cfadb96436de748e70)
 - Super Unitychan Sistersのチェック
   - [ ] 曲のループの切れ目を調整(audacityはインストール済み)
   - [ ] ライフを5に
