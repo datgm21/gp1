@@ -25,7 +25,7 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 10回目(12/22)
+# 10回目(12/23)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
@@ -33,7 +33,6 @@
 
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)開催中
-- [ゲームクリエイターズギルド公式ch](https://www.youtube.com/channel/UCwkc3XcdjoMxO6vROG8LKYQ/videos)
 
 ## 正月課題(ゲームデザイン実習とゲームプログラミング共通)
 - 個人作品の企画と制作。Unityかclusterのいずれか
@@ -50,17 +49,12 @@
 
 ## 予定
 - 正月課題、および、1週間ゲームジャムに取り組む
+  - [参考](https://www.notion.so/050eaa33f7d248cfadb96436de748e70)
 - Super Unitychan Sistersのチェック
   - [ ] 曲のループの切れ目を調整(audacityはインストール済み)
   - [ ] ライフを5に
   - [ ] ゲーム中、[ESC]キーでタイトルヘ
   - ビルドしたら `Z:\student\gp1\DATフェスタ` フォルダー内に提出
-- 企画、仕様の検討、作成、相談
-  - [作業方針メモ](https://docs.google.com/document/d/1SEGgOVTdS_9bh5WjrdJXg8IWGLDNlWRpL6IR9PW9xm8/)
-  - [SuperUnitychanSisters仕様](https://docs.google.com/document/d/1PKAZUuYLgpLZ4BFl2VmitCRu2PnwRKK85KOoJ8MjYtE/)
-  - [弾幕を表現する](https://github.com/datgm21/design/wiki/%E5%BC%BE%E5%B9%95%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B)
-  - Cluster 乗り物をいじる
-    - Cubeなどでは、両Frictionを小さい値にしたPhysics Materialを作成してアタッチしないと動きにくい
 
 # 後期9回目(12/16)
 ## 内容
