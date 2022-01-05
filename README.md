@@ -25,11 +25,17 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 10回目(12/23)
+# 11回目(1/6)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
 [作品ページ](https://datgm21.github.io/works/)
+
+## 正月課題(ゲームデザイン実習とゲームプログラミング共通) 発表
+- 作成した作品を動かして見せて、企画概要書で企画の説明とまとめ
+- 一人10分程度。短い分には問題なし
+
+# 10回目(12/23)
 
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)開催中
