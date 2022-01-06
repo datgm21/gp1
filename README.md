@@ -1,7 +1,7 @@
 # 2021年度生 ゲームプログラミング入門1
 - [シラバス](https://drive.google.com/file/d/19wVSBpL08nnUIp8ZX9r5RmHoJM_Z40OZ/)
 - [座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
-- [質問](https://meet.google.com/jdv-ebbs-bjp)
+- [質問](https://meet.google.com/qjr-baxz-yvq)
 - [Slack](https://datgm21.slack.com)
 - [日程](https://github.com/datgm21/gp1/blob/main/thus.md)
 - その他
