@@ -33,6 +33,7 @@
 
 ## 正月課題(ゲームデザイン実習とゲームプログラミング共通) 発表 9:30から
 - 作成した作品を動かして見せて、企画概要書で企画の説明とまとめ
+  - [発表順とURL](https://docs.google.com/spreadsheets/d/1qVCVL9iOTLNpMFAaT30L1Zg4YuffQWfvGuCl3J1waiU/edit?usp=sharing)
 - 一人8分程度。短い分には問題なし
 
 # 10回目(12/23)
