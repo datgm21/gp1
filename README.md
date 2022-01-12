@@ -25,11 +25,18 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 11回目(1/6)
+# 12回目(1/13)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
 
 [作品ページ](https://datgm21.github.io/works/)
+
+## 予定
+- [paizaのスキルチェック](https://paiza.jp/challenges)
+  - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
+
+
+# 11回目(1/6)
 
 ## 正月課題(ゲームデザイン実習とゲームプログラミング共通) 発表 9:30から
 - 作成した作品を動かして見せて、企画概要書で企画の説明とまとめ
