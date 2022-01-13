@@ -31,6 +31,9 @@
 
 [作品ページ](https://datgm21.github.io/works/)
 
+## 話題
+- [AtCoder. 競技プログラミングコンテストサイト](https://atcoder.jp/?lang=ja)
+
 ## 予定
 - [paizaのスキルチェック](https://paiza.jp/challenges)
   - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
