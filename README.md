@@ -38,7 +38,8 @@
 - [paizaのスキルチェック](https://paiza.jp/challenges)
   - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
-- [ゆるく使うUnityTest](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
+  - 参考： [ゆるく使うUnityTest](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
+- [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 # 11回目(1/6)
 
