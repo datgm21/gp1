@@ -25,6 +25,12 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 13回目(1/20)
+
+## 予定
+- paizaのスキルチェックの取得ランクを報告
+  - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
+
 # 12回目(1/13)
 
 [後期の座席](https://docs.google.com/spreadsheets/d/1KAVeA-KRZoyx0lwaYfgh95r0BmG8m7EYxKE8nIAkVJk/)
@@ -40,6 +46,7 @@
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
   - 参考： [ゆるく使うUnityTest](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+
 
 # 11回目(1/6)
 
