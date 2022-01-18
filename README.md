@@ -30,6 +30,7 @@
 ## 予定
 - paizaのスキルチェックの取得ランクを報告
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
+- 正月課題の技術ヒント
 
 # 12回目(1/13)
 
