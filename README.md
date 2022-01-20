@@ -25,9 +25,19 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
-# 13回目(1/20)
+# 14回目(1/27)
 
 ## 予定
+- paizaのスキルチェックの取得ランクを報告
+  - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
+- 前回の続き
+  - [コメント](https://docs.google.com/document/d/1GQ5QU5LXTRatZW_Cjouxgy24JH9pezhIHKQv-lgV0SM/)
+- 一通り、コメント
+- 最後のまとめの準備
+
+# 13回目(1/20)
+
+## 内容
 - paizaのスキルチェックの取得ランクを報告
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
 - 正月課題の技術ヒント
