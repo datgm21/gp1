@@ -27,6 +27,9 @@
 
 # 14回目(1/27)
 
+## 話題
+- [本日20時からハイパーカジュアルゲームナイト](https://twitter.com/unity_japan/status/1486247544300650499)
+
 ## 予定
 - paizaのスキルチェックの取得ランクを報告
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
