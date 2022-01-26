@@ -33,9 +33,9 @@
 ## 予定
 - paizaのスキルチェックの取得ランクを報告
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
+- 一通り、コメント
 - 前回の続き
   - [コメント](https://docs.google.com/document/d/1GQ5QU5LXTRatZW_Cjouxgy24JH9pezhIHKQv-lgV0SM/)
-- 一通り、コメント
 - 最終発表の準備
   - 最終日　10:00から発表開始
   - 一人5分程度
