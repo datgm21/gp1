@@ -25,12 +25,24 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+# 15回目(2/3)
+
+## 予定
+- 発表順の決定
+- 最終発表
+  - 10:00から開始予定
+  - 一人5分程度
+  - 正月課題の改良、取り組みたいテーマ、コンテスト用の企画案などについて、調べたこと、考えたこと、試作したものなどについて発表
+  - ポートフォリオを見ながら発表できるように、資料や実行ファイルへのリンクはポートフォリオに用意しておく
+    - ポートフォリオがGitHub Pages以外の場合は、開くためのURLをSlackの自分のtimesチャンネルに貼り付ける
+
+
 # 14回目(1/27)
 
 ## 話題
 - [本日20時からハイパーカジュアルゲームナイト](https://twitter.com/unity_japan/status/1486247544300650499)
 
-## 予定
+## 内容
 - paizaのスキルチェックの取得ランクを報告
   - ランクを取得したら[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdxrb4JdwmMXHRxKpFCbg6iua1SkVPhYoJaqV63SAeEM9iX9w/viewform?usp=sf_link)から報告
 - 一通り、コメント
